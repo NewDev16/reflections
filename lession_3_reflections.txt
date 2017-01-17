@@ -12,3 +12,6 @@ A: branches are used e.g. if i want to create a new feature, test it and later a
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: If there are some merge conflicts, i can resolve this conflicts, by sorting out, what lines of code will be kept and which lines are discarded. 
 A: After that i can merge both branches and push it to github.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: I would use Team foundation services. I think merging is easier compared to git.
