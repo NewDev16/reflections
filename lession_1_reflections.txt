@@ -21,3 +21,6 @@ Step 4: git diff commit_id_old commit_id_new
 
 How might using version control make you more confident to make changes that could break something?
 Because git gives me the feeling of safty! every fault which is done by code can be undone.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+i want to version-control my first project!
