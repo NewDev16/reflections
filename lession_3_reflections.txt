@@ -3,3 +3,8 @@ A: If i whish to publish my codes or if i work with other people together.
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: because some in github may cause errors on the local remote repo
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: clones are used to get the same repo from github on my local machine or to clone a repo locally to another repo
+A: forks are used to get the repo of someone else in my own github repo. If i use fork i can control the repo as my own repo.
+A: branches are used e.g. if i want to create a new feature, test it and later add it to my master branch or to create backups etc.
