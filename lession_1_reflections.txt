@@ -8,3 +8,7 @@ Pros:
 
 Cons:
 - maybe i forget to commit, and a big peace of code will be in one commit
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+The reason, why git commits the whole repository is, that there may be files which are related to eachother.
+The reason, why other version-control software save the file seperately is, that the files which are saved are most of the time not related to eachother
