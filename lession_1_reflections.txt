@@ -12,3 +12,9 @@ Cons:
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 The reason, why git commits the whole repository is, that there may be files which are related to eachother.
 The reason, why other version-control software save the file seperately is, that the files which are saved are most of the time not related to eachother
+
+How can you use the commands git log and git diff to view the history of files?
+Step 1: Go to the directory of the repository with git bash
+Step 2: type in git log
+Step 3: search the versions of interest
+Step 4: git diff commit_id_old commit_id_new
