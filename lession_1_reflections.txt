@@ -1,2 +1,7 @@
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 It can save me time, if i try to find a bug, which occures in my edited code and which wasen present in my old code version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros: 
++ i can make the decision, what should be commited and what would be commited. 
++ i can make shure that every commit contains one logical step -> more readable history
