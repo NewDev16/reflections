@@ -18,3 +18,6 @@ Step 1: Go to the directory of the repository with git bash
 Step 2: type in git log
 Step 3: search the versions of interest
 Step 4: git diff commit_id_old commit_id_new
+
+How might using version control make you more confident to make changes that could break something?
+Because git gives me the feeling of safty! every fault which is done by code can be undone.
