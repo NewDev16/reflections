@@ -5,3 +5,6 @@ What do you think are the pros and cons of manually choosing when to create a co
 Pros: 
 + i can make the decision, what should be commited and what would be commited. 
 + i can make shure that every commit contains one logical step -> more readable history
+
+Cons:
+- maybe i forget to commit, and a big peace of code will be in one commit
